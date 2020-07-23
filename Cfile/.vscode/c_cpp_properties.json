@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "MinGw",
+            "compilerPath": "D:\\MinGw_W64\\mingw64\\bin\\gcc.exe",
+            "includePath": [
+                "D:/MinGw_W64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "D:/MinGw_W64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "D:/MinGw_W64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "D:/MinGw_W64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "D:/MinGw_W64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "D:/MinGw_W64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
